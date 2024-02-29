@@ -1,0 +1,25 @@
+# Ignore Python bytecode files
+backend/__pycache__/
+*.pyc
+
+# Ignore Node.js modules
+frontend/node_modules/
+
+# Ignore environment variables
+backend/.env
+frontend/.env
+
+# Ignore build and compiled files
+frontend/build/
+frontend/dist/
+
+# Ignore editor/IDE files
+.vscode/
+.idea/
+.env
+venv/
+env/
+virtualenv/
+
+# Ignore system-generated files
+Thumbs.db
