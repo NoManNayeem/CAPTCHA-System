@@ -4,6 +4,10 @@ This project implements a simple CAPTCHA (Completely Automated Public Turing tes
 
 
 
+### Explanation for the repo is available at Medium
+[Cracking the CAPTCHA Code: Your Complete Guide to Understanding and Implementing CAPTCHA Technology](https://medium.com/@nomannayeem/cracking-the-captcha-code-your-complete-guide-to-understanding-and-implementing-captcha-technology-cf606367e8af)
+
+
 
 # App Snaps/Images
 
