@@ -2,6 +2,23 @@
 
 This project implements a simple CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart) system using Flask for the backend and ReactJS for the frontend.
 
+
+
+
+# App Snaps/Images
+
+Here are some screenshots from the application:
+
+| Screenshot 1 | Screenshot 2 |
+| --- | --- |
+| ![Screenshot 1](./ScreenSnaps/Screenshot1.png) | ![Screenshot 2](./ScreenSnaps/Screenshot2.png) |
+| Screenshot 3 | Screenshot 4 |
+| ![Screenshot 3](./ScreenSnaps/Screenshot3.png) | ![Screenshot 4](./ScreenSnaps/Screenshot4.png) |
+
+
+
+
+
 ## Technologies
 
 - Backend: Python (Flask)
